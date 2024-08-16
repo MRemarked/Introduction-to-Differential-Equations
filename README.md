@@ -12,5 +12,7 @@ Class-Meeting-05: [The Wronskian](Summer-2024-Class-Meetings/MATH_2400_Lecture_0
 
 Class-Meeting-06: [Linear Systems](Summer-2024-Class-Meetings/MATH_2400_Lecture_06_Linear_Systems_Notes.pdf)
 
+Class-Meeting-08: [Complex Roots of the Homogeneous Equation](Summer-2024-Class-Meetings/MATH_2400_Lecture_08_Complex_Roots_of_the_Homogeneous_Equation_Notes.pdf)
+
 Class-Meeting-10: [Method of Undetermined Coefficients](Summer-2024-Class-Meetings/MATH_2400_Lecture_10_Method_of_Undetermined_Coefficients_Notes.pdf)
 
