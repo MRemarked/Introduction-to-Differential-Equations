@@ -16,5 +16,7 @@ Class-Meeting-07: [Fundamental Sets of Solutions](Summer-2024-Class-Meetings/MAT
 
 Class-Meeting-08: [Complex Roots of the Homogeneous Equation](Summer-2024-Class-Meetings/MATH_2400_Lecture_08_Complex_Roots_of_the_Homogeneous_Equation_Notes.pdf)
 
+Class-Meeting-09: [Repeated Roots and Reduction of Order](Summer-2024-Class-Meetings/MATH_2400_Lecture_09_Repeated_Roots_and_Reduction_of_Order_Notes.pdf)
+
 Class-Meeting-10: [Method of Undetermined Coefficients](Summer-2024-Class-Meetings/MATH_2400_Lecture_10_Method_of_Undetermined_Coefficients_Notes.pdf)
 
